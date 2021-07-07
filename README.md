@@ -3,7 +3,7 @@
   <div>
   
   <a href="https://github.com/mayaradeveloper">
-  <img height="100"  width="auto" align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaradeveloper&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="120"  width="auto" align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaradeveloper&&layout=compact&hide=shell&theme=jolly"/>
  
 <img height="120"   align="auto" src="https://github-readme-stats.vercel.app/api?username=mayaradeveloper&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <br>
