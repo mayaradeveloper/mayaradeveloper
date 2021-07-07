@@ -5,7 +5,7 @@
   <a href="https://github.com/mayaradeveloper">
   <img height="170"  align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaradeveloper&&layout=compact&hide=shell&theme=jolly"/>
   
-<img height="171"   align="auto" src="https://github-readme-stats.vercel.app/api?username=mayaradeveloper&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img height="205"   align="auto" src="https://github-readme-stats.vercel.app/api?username=mayaradeveloper&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <br>
   <br>
     
