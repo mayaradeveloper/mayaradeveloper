@@ -3,7 +3,14 @@
  #  Hello Guys! Welcome to my Profile, I'm Mayara Silva! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayaradeveloper)](https://github.com/mayaradeveloper)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayarajds/)](https://www.linkedin.com/in/mayarajds/)
+
+ <a href="https://www.instagram.com/mayara.jds/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://www.linkedin.com/in/mayarajds">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
 ### About me
 I'm a software developer at Capgemini
