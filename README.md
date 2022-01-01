@@ -1,9 +1,17 @@
 <h4 align="center">
 
-<text align="center">  Hello Guys! Sejam bem vindos(as) ao meu Perfil, sou a Mayara Silva! 👋
- <br>
- <br>
- <br>
+ #  Hello Guys! Welcome to my Profile, I'm Mayara Silva! :D
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayaradeveloper)](https://github.com/mayaradeveloper)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayarajds/)](https://www.linkedin.com/in/mayarajds/)
+
+### About me
+I'm a software developer at Capgemini
+
+- [Skills] 👨🏼‍🏫 - Java, Python, Javascript.
+- [Tools]  ✍🏼 - Angular12, HTML, CSS, Postman, Jasmine, Karma.
+- [Projects] 💻 - Bank of Brasil, Military police.
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <div align="center">
