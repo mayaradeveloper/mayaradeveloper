@@ -28,8 +28,6 @@ I'm a software developer at Capgemini
   <img align="center" alt="may-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="may-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="may-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- width=473&height=473" data-canonical-src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" style="max-width: 100%;">
-</div>
   
   ##
   
