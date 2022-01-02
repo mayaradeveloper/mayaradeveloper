@@ -22,7 +22,7 @@ Tools and technologies:<br>
 Frontend: HTML, CSS, PrimeNG, Node, Angular12.<br>
 Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy<br>
 Mobile: Android, Play Store, firebase. <br>
-Testing: Postman, Jasmine, Karma, Unit Testing.<br>
+Testing: Selenium, Postman, Jasmine, Karma, Unit Testing.<br>
 Project Manager: Excel, MSProject , Jira. <br>
 Design: Adobe, Figma, Canvas. <br>
 Agile Methods: Scrum and Kanban. <br>
