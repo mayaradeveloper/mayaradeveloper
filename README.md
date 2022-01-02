@@ -13,9 +13,13 @@
 </div>
 
 ### About me
+
 Software developer with experience in web and mobile applications.
+
 Languages: Java, Python, Javascript.
+
 Tools & Technologies: VsCode, Postman, Git&Github, Gitlab, Node, Bootstrap, Figma, Jasmine, Karma, OracleBD, PrimeNG, MySQL, Angular12, Proxy Reverse.
+
 - 🔭 I'm currently working as a full developer at Capgemini company doing projects for Banco do Brasil.
 - 🖥 Last experience: Mobile Developer at the Amazonas Military Police.
 - 🖥 Other experiences: R&D projects at the Prof. Technology Reference Center. Harlan Julu Guerra Marcelice (CTHM), from the Federal Institute of Amazonas.
