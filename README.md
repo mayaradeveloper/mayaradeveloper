@@ -13,7 +13,17 @@
 </div>
 
 ### About me
-I'm a software developer at Capgemini
+Software developer with experience in web and mobile applications.
+Languages: Java, Python, Javascript.
+Tools & Technologies: VsCode, Postman, Git&Github, Gitlab, Node, Bootstrap, Figma, Jasmine, Karma, OracleBD, PrimeNG, MySQL, Angular12, Proxy Reverse.
+- 🔭 I'm currently working as a full developer at Capgemini company doing projects for Banco do Brasil.
+- 🖥 Last experience: Mobile Developer at the Amazonas Military Police.
+- 🖥 Other experiences: R&D projects at the Prof. Technology Reference Center. Harlan Julu Guerra Marcelice (CTHM), from the Federal Institute of Amazonas.
+- 📅 Participation in Events: Brazilian Congress on Software, Congress of the Brazilian Computer Society, Brazilian Symposium on Software Quality. Volunteer at the Manaus Digital Pole Fair.
+- 📜 Certifications: LGPDF(Fundamentals in the General Data Protection Law, Kanban Foundation, SFPC(Scrum Foundation), 1ZO-1085-21-Oracle Foundations Associate.
+- ⌨ More information: Bronze Medal at the UFAM/AM Mathematics Fair
+
+- 📫 How to contact me: Linkedin/Instagram/Email (Links in icons).
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
