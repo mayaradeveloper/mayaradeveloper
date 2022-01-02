@@ -27,7 +27,9 @@ Project Manager: Excel, MSProject , Jira. <br>
 Design: Adobe, Figma, Canvas. <br>
 Agile Methods: Scrum and Kanban. <br>
 Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet.<br>
-Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns. ... <br>
+Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns.
+Projects performed: HBR-MMS (Stock Management System), COMANDOWEB, COPMAM (Amazon policing command with facial recognition technology, link: http://www.ssp.am.gov.br/pm-do-amazonas-desenvolve-tecnologia-de-reconhecimento-facial/,), BigData&Analytics.... <br>
+
 
 
 - 🔭 I'm currently working as a full developer at Capgemini company doing projects for Banco do Brasil.
