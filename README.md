@@ -18,15 +18,15 @@ Software developer with experience in web and mobile applications.<br>
 
 Languages: Java, Python, Javascript. <br>
 
-Tools and technologies:
-Frontend: HTML, CSS, PrimeNG, Node, Angular12.
-Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy
-Mobile:
-Testing: Postman, Jasmine, Karma, Unit Testing.
-Project Manager: Excel, MSProject , Jira,
-Design: Adobe, Figma, Canvas
-Agile Methods: Scrum and Kanban,
-Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet
+Tools and technologies:<br>
+Frontend: HTML, CSS, PrimeNG, Node, Angular12.<br>
+Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy<br>
+Mobile: Android, Play Store, firebase. <br>
+Testing: Postman, Jasmine, Karma, Unit Testing.<br>
+Project Manager: Excel, MSProject , Jira. <br>
+Design: Adobe, Figma, Canvas. <br>
+Agile Methods: Scrum and Kanban. <br>
+Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet.<br>
 Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns. ... <br>
 
 
