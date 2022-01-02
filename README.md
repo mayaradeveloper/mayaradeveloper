@@ -16,8 +16,8 @@
 Born in Manaus/AM and currently living in São Paulo/SP. I'm a Software developer with experience in web and mobile applications.
 <br>
 <br>
-Languages: Java, Python, Javascript. <br>
 Tools and technologies:<br>
+<br>
 Languages: Java, Python, Javascript. <br>
 Frontend: HTML, CSS, PrimeNG, Node, Angular12.<br>
 Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy<br>
