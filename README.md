@@ -14,11 +14,11 @@
 
 ### About me
 
-Software developer with experience in web and mobile applications.
+Software developer with experience in web and mobile applications.<br>
 
-Languages: Java, Python, Javascript.
+Languages: Java, Python, Javascript.<br>
 
-Tools & Technologies: VsCode, Postman, Git&Github, Gitlab, Node, Bootstrap, Figma, Jasmine, Karma, OracleBD, PrimeNG, MySQL, Angular12, Proxy Reverse.
+Tools & Technologies: VsCode, Postman, Git&Github, Gitlab, Node, Bootstrap, Figma, Jasmine, Karma, OracleBD, PrimeNG, MySQL, Angular12, Proxy Reverse.<br>
 
 - 🔭 I'm currently working as a full developer at Capgemini company doing projects for Banco do Brasil.
 - 🖥 Last experience: Mobile Developer at the Amazonas Military Police.
@@ -28,8 +28,8 @@ Tools & Technologies: VsCode, Postman, Git&Github, Gitlab, Node, Bootstrap, Figm
 - ⌨ More information: Bronze Medal at the UFAM/AM Mathematics Fair
 
 - 📫 How to contact me: Linkedin/Instagram/Email (Links in icons).
-
-
+<br>
+<br>
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
