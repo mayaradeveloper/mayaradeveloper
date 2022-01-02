@@ -45,7 +45,6 @@ I'm a software developer at Capgemini
   <img align="center" alt="may-java" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
   <img align="center" alt="may-mysql" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/>
   <img align="center" alt="may-android" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/>
- <img align="center" alt="may-android" height="30" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "vscode" />
 
  
  
