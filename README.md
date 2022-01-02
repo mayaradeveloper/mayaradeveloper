@@ -14,8 +14,7 @@
 
 ### About me
 <br>
-Born in Manaus/AM and currently living in São Paulo/SP.<br>
-Software developer with experience in web and mobile applications.<br>
+Born in Manaus/AM and currently living in São Paulo/SP. I'm a Software developer with experience in web and mobile applications.<br>
 
 Languages: Java, Python, Javascript. <br>
 
