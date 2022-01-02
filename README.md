@@ -19,6 +19,7 @@ Born in Manaus/AM and currently living in São Paulo/SP. I'm a Software develope
 Languages: Java, Python, Javascript. <br>
 
 Tools and technologies:<br>
+<br>
 Frontend: HTML, CSS, PrimeNG, Node, Angular12.<br>
 Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy<br>
 Mobile: Android, Play Store, firebase. <br>
@@ -27,7 +28,7 @@ Project Manager: Excel, MSProject , Jira. <br>
 Design: Adobe, Figma, Canvas. <br>
 Agile Methods: Scrum and Kanban. <br>
 Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet.<br>
-Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns.
+Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns.<br>
 Projects performed: HBR-MMS (Stock Management System), COMANDOWEB, COPMAM (Amazon policing command with facial recognition technology, link: http://www.ssp.am.gov.br/pm-do-amazonas-desenvolve-tecnologia-de-reconhecimento-facial/,), BigData&Analytics.... <br>
 
 
