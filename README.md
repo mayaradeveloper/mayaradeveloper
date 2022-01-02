@@ -29,6 +29,9 @@ I'm a software developer at Capgemini
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaradeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
+ <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<i class = "devicon-adonisjs-original colori"> </i>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="may-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT">
   <img align="center" alt="may-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5">
@@ -42,6 +45,8 @@ I'm a software developer at Capgemini
   <img align="center" alt="may-java" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
   <img align="center" alt="may-mysql" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/>
   <img align="center" alt="may-android" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/>
+ <img align="center" alt="may-android" height="30" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "vscode" />
+
  
  
   ##
