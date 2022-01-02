@@ -1,6 +1,6 @@
 <h4 align="center">
 
- #  Hello Guys! Welcome to my Profile, I'm Mayara Silva! :D
+ #  Hello Guys! Welcome to my Profile, I'm Mayara Silva! 🙋‍♀️
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mayaradeveloper)](https://github.com/mayaradeveloper)
 
@@ -13,27 +13,27 @@
 </div>
 
 ### About me
-Born in Manaus/AM and currently living in São Paulo/SP. I'm a Software developer with experience in web and mobile applications.
+📍 Born in Manaus/AM and currently living in São Paulo/SP. I'm a Software developer with experience in web and mobile applications💻📱
 <br>
 <br>
-Tools and technologies:<br>
+🔽 Tools and technologies: <br>
 <br>
-Languages: Java, Python, Javascript. <br>
-Frontend: HTML, CSS, PrimeNG, Node, Angular12.<br>
-Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy<br>
-Mobile: Android, Play Store, firebase. <br>
-Testing: Selenium, Postman, Jasmine, Karma, Unit Testing.<br>
-Project Manager: Excel, MSProject , Jira. <br>
-Design: Adobe, Figma, Canvas. <br>
-Agile Methods: Scrum and Kanban. <br>
-Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet.<br>
-Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns.<br>
-Projects performed: HBR-MMS (Stock Management System), COMANDOWEB, COPMAM (Amazon policing command with facial recognition technology, link: http://www.ssp.am.gov.br/pm-do-amazonas-desenvolve-tecnologia-de-reconhecimento-facial/,), BigData&Analytics.... <br>
+🌐 Languages: Java, Python, Javascript. <br>
+🖥 Frontend: HTML, CSS, PrimeNG, Node, Angular12.<br>
+🔧 Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy<br>
+📱 Mobile: Android, Play Store, firebase. <br>
+🗳 Testing: Selenium, Postman, Jasmine, Karma, Unit Testing.<br>
+📊 Project Manager: Excel, MSProject , Jira. <br>
+🖌 Design: Adobe, Figma, Canvas. <br>
+📌 Agile Methods: Scrum and Kanban. <br>
+🔊 Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet.<br>
+🔎 Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns.<br>
+📑 Projects performed: HBR-MMS (Stock Management System), COMANDOWEB, COPMAM (Amazon policing command with facial recognition technology, link: http://www.ssp.am.gov.br/pm-do-amazonas-desenvolve-tecnologia-de-reconhecimento-facial/,), BigData&Analytics.... <br>
 
 
 
 - 🔭 I'm currently working as a full developer at Capgemini company doing projects for Banco do Brasil.
-- 🖥 Last experience: Mobile Developer at the Amazonas Military Police.
+- 📱 Last experience: Mobile Developer at the Amazonas Military Police.
 - 🖥 Other experiences: R&D projects at the Prof. Technology Reference Center. Harlan Julu Guerra Marcelice (CTHM), from the Federal Institute of Amazonas.
 - 📅 Participation in Events: Brazilian Congress on Software, Congress of the Brazilian Computer Society, Brazilian Symposium on Software Quality. Volunteer at the Manaus Digital Pole Fair.
 - 📜 Certifications: LGPDF(Fundamentals in the General Data Protection Law, Kanban Foundation, SFPC(Scrum Foundation), 1ZO-1085-21-Oracle Foundations Associate.
