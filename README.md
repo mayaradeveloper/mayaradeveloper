@@ -16,9 +16,19 @@
 
 Software developer with experience in web and mobile applications.<br>
 
-Languages: Java, Python, Javascript.<br>
+Languages: Java, Python, Javascript. <br>
 
-Tools & Technologies: VsCode, Postman, Git&Github, Gitlab, Node, Bootstrap, Figma, Jasmine, Karma, OracleBD, PrimeNG, MySQL, Angular12, Proxy Reverse, Software Architecture - Principles, Patterns and Design, Project management with Excell, MSProject, Jira, Agile methods with Scrum and Kanban, Communication tools: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet..<br>
+Tools and technologies:
+Frontend: HTML, CSS, PrimeNG, Node, Angular12.
+Backend: OracleBD, MySQL, MongoDB, API, Swagger, Proxy
+Mobile:
+Testing: Postman, Jasmine, Karma, Unit Testing.
+Project Manager: Excel, MSProject , Jira,
+Design: Adobe, Figma, Canvas
+Agile Methods: Scrum and Kanban,
+Communication: Trello, Discord, MicrosoftTeams, Slack, GoogleMeet
+Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles & Patterns. ... <br>
+
 
 - 🔭 I'm currently working as a full developer at Capgemini company doing projects for Banco do Brasil.
 - 🖥 Last experience: Mobile Developer at the Amazonas Military Police.
