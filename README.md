@@ -37,7 +37,7 @@ Other Tools: VsCode, Git and Github, Gitlab, Software Architecture - Principles 
 - 📜 Certifications: LGPDF(Fundamentals in the General Data Protection Law, Kanban Foundation, SFPC(Scrum Foundation), 1ZO-1085-21-Oracle Foundations Associate.
 - ⌨ More information: Bronze Medal at the UFAM/AM Mathematics Fair
 
-- 📫 How to contact me: Linkedin/Instagram/Email (Links in icons).
+- 📫 How to contact me: Linkedin/Instagram/Email (Links in icons above).
 <br>
 <br>
 
